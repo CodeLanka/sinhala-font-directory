@@ -1,0 +1,34 @@
+{
+	
+	"fonts":[
+
+		{
+			"font_name":"Sri TamB",
+			"font_div":"sri-tamb",
+			"font_style":"SriTamB.ttf"
+		},
+		{
+			"font_name":"Sri TamO",
+			"font_div":"sri-tamo",
+			"font_style":"SriTamO.ttf"
+		},
+		{
+			"font_name":"LK Lug",
+			"font_div":"lklug",
+			"font_style":"lklug.ttf"
+		},
+		{
+			"font_name":"IS Kpota",
+			"font_div":"iskpota",
+			"font_style":"iskpota.ttf"
+		},
+		{
+			"font_name":"Nirosha",
+			"font_div":"nirosha",
+			"font_style":"nirosha.ttf"
+		}
+
+
+	]
+
+}
