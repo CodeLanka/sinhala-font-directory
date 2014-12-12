@@ -26,7 +26,26 @@
 			"font_name":"Nirosha",
 			"font_div":"nirosha",
 			"font_style":"nirosha.ttf"
+		},
+		{
+			"font_name":"Kandy",
+			"font_div":"kandy",
+			"font_style":"Kandy.ttf"
+		},
+		{
+            "font_name":"Kandy New",
+			"font_div":"kandy-New",
+			"font_style":"KandyNew.ttf"
+
+		},
+		{
+            "font_name":"Anuradhapura",
+			"font_div":"Anuradhapura",
+			"font_style":"Anuradhapura.ttf"
+
 		}
+
+
 
 
 	]
